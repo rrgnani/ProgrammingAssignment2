@@ -1,6 +1,6 @@
 # Two functions makeCacheMatrix and cacheSolve has been written 
 # to complete the program objectives
-# Refer TestResults.M to view the Test Steps and results of the program
+# Refer TestResults.txt to view the Test Steps and results of the program
 
 
 # makeCacheMatrix
